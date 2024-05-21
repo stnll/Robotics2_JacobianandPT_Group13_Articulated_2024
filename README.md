@@ -144,7 +144,7 @@ n = No. of joints
     <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
 
 
-<a href="https://drive.google.com/file/d/15Ks-KWz9cz0KKY_rOD8W6e80AqeyajO1/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1rkvcpdygYsD-PsXV5G63CRLuoiRLADk-/view?usp=sharing">
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
     <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
 
