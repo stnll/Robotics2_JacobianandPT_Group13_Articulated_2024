@@ -95,12 +95,38 @@ n = No. of joints
 a=20 
 
 <h4 align="center">Supplementary Video about the Jacobian Matrix
-<h5 align="center">To further understand how to get the Jacobian MAtrixa of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
 </p> 
  <a href="link nung video">
-    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_FKandIK_Group13_Articulated_2024/assets/157665975/69f0608b-6055-49a4-9c53-84936f0e0aff>
-    <img src="https://github.com/stnll/Robotics2_FKandIK_Group13_Articulated_2024/assets/157665975/69f0608b-6055-49a4-9c53-84936f0e0aff" alt="Discussion of Degrees of Freedom for the Articulated Manipulator" width = 600 title="Discussion of Degrees of Freedom for the Articulated Manipulator">
+    <source media="(prefers-color-scheme: dark)" srcset=link nung screenshot nung video>
+    <img src="link nung screenshot nung video" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
 </a> 
+
+<h4 align="center">Supplementary Video about the Jacobian Matrix
+<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+</p> 
+ <a href="link nung video">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Jacobian Matrix for the Articulated Manipulator" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
+</a> 
+
+<h4 align="center">Supplementary Video about the Jacobian Matrix
+<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+</p> 
+ <a href="link nung video">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Jacobian Matrix for the Articulated Manipulator" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
+</a> 
+
+<h4 align="center">Supplementary Video about the Jacobian Matrix
+<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+</p> 
+ <a href="link nung video">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Jacobian Matrix for the Articulated Manipulator" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
+</a> 
+
+
  
 
   
