@@ -46,5 +46,73 @@ i = Which joint is being solved
 </p>
 n = No. of joints
 </p>
-<h4 align="center">JACOBIAN MATRIX CALCULATION OF A ARTICULATED MANIPULATOR (RRR)
+<h4 align="center">JACOBIAN MATRIX CALCULATION OF AN ARTICULATED MANIPULATOR (RRR)
+<h5 align="center"> Substituting the Formulas for the Linear and Rotational Part 
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/553585eb-8822-4828-8d62-1d0b36e65c4e">
+<h5 align="center"> Solving for the Column 1 of the Jacobian Matrix
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a62ba100-7649-49ac-9a09-1cae01bbed55">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/e2970469-be80-44f2-be36-ba967fd13540">
+<h5 align="center"> Using Cross Product Method
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/258e8834-8573-4a74-a5c4-bc41023df753">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/d6f8cbe5-e314-46ba-9806-93ee17011047">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/61136c11-0376-45c6-89ee-eebf70da8822">
+<h5 align="center"> Solving for the Column 2 of the Jacobian Matrix
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/0222b094-a8fd-4638-8ec6-1f4b2bd34e4b">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/56375dfd-5d0a-4ae9-82b5-76486e144adb">
+<h5 align="center"> Using Cross Product Method
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/258e8834-8573-4a74-a5c4-bc41023df753">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/dcbc8e50-fb24-49d1-a1ef-ff27b6580d2a">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/8f1b9596-e4cf-42f8-82c0-0199685fb34e">
+<h5 align="center">Solving for the Column 3 of the Jacobian Matrix
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/bbf9138f-6b68-4a7c-82d2-bfd49be73607)
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/4faab4dd-65cf-4fb0-9a23-cf7152ebf14e">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/c9a42e7f-3581-42ea-afca-f2f792ab7412">
+<h5 align="center"> Using Cross Product Method
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/258e8834-8573-4a74-a5c4-bc41023df753">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/e6c3dafd-c4cf-49da-acb0-42c9b28f1a8d">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3c9d2d08-8609-4fd3-8c23-9710f07dce0b">
+<h5 align="center"> Substituting the Matrices from Columns 1, 2, and 3 to the Jacobian Matrix
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/7553fe41-da0f-4816-950d-f1bbe64f1a20">
+<h5 align="center">Assigning Values to the Link Lengths and Joint Variables
+a=20 
+
+<h4 align="center">Supplementary Video about the Jacobian Matrix
+<h5 align="center">To further understand how to get the Jacobian MAtrixa of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+</p> 
+ <a href="link nung video">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_FKandIK_Group13_Articulated_2024/assets/157665975/69f0608b-6055-49a4-9c53-84936f0e0aff>
+    <img src="https://github.com/stnll/Robotics2_FKandIK_Group13_Articulated_2024/assets/157665975/69f0608b-6055-49a4-9c53-84936f0e0aff" alt="Discussion of Degrees of Freedom for the Articulated Manipulator" width = 600 title="Discussion of Degrees of Freedom for the Articulated Manipulator">
+</a> 
+ 
+
+  
+  
+
+
+ 
+
+ 
+
+
+
+
+
 
