@@ -139,6 +139,21 @@ n = No. of joints
 ## <h2 align="center">III. PATH AND TRAJECTORY PLANNING
 <h5 align="justify">Path and trajectory planning are critical aspects in fields such as robotics, autonomous vehicles, aerospace, and animation. These processes involve determining a sequence of positions and corresponding actions that a moving entity (like a robot or a drone) should follow to reach a destination efficiently and safely.
 
+<a href="https://drive.google.com/file/d/15Ks-KWz9cz0KKY_rOD8W6e80AqeyajO1/view?usp=sharing">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
+
+
+<a href="https://drive.google.com/file/d/15Ks-KWz9cz0KKY_rOD8W6e80AqeyajO1/view?usp=sharing">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
+
+
+<a href="https://drive.google.com/file/d/15Ks-KWz9cz0KKY_rOD8W6e80AqeyajO1/view?usp=sharing">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
+
+
 
 
  
