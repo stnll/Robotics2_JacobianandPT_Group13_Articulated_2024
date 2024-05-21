@@ -29,10 +29,6 @@
 <h5 align="justify">   The Jacobian matrix is a mathematical tool used to evaluate the connection between numerous variables in calculus and linear algebra. Although the notion predates Carl Gustav Jacob Jacobi, it was named after him. The matrix evolved from the 18th-century studies of differential calculus and partial derivatives by mathematicians such as Euler and Lagrange. The Jacobian matrix is used to solve functions or equation systems with numerous variables. It is made up of the partial derivatives of the output variables with regard to the input variables. This matrix approximates the function linearly around a specified point. The Jacobian matrix, by arranging partial derivatives into matrices, enables fast computations in a variety of domains, including optimization, numerical analysis, differential equations, physics, and computer science. The Jacobian matrix is critical for understanding the behavior of functions and systems with numerous variables. It permits the investigation of rates of change, optimization, and stability analysis. Overall, the Jacobian matrix is a basic topic with numerous applications in mathematics and beyond.
 </p>
 
-<div align="center"> 
-<a href="https://drive.google.com/file/d/10rq_Nah5IroM_ag2xdpRiHNySk9VqwC9/view?usp=sharing" target="_blank">
-
- 
 <p align="center" width="200">
   <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/2feefaf6-a93e-4a2c-a445-25242cac55eb">
 <h5 align="justify"> As we can see in this matrix the one that contains the x prime, y prime, z prime, omega x, omega y, and omega z is called the end effector velocity. On the other side, the one that contains theta 1, theta 2, and theta 3 is the joint velocity vector. We would be using this matrix to help us convert the angular velocities of the joints into the velocity of the end effector of a robotic arm.
