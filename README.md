@@ -93,39 +93,52 @@ n = No. of joints
 <p align="center">
   <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/7553fe41-da0f-4816-950d-f1bbe64f1a20">
 <h5 align="center">Assigning Values to the Link Lengths and Joint Variables
-a=20 
-
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/6dab705d-ac22-47ec-b408-31f310625d4d">
+<h5 align="center">Substituting the Values to the Jacobian Matrix
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/1f4f25cc-cce5-49f7-8d14-67731e9cd721">
+<h5 align="center">Solving the End Effector Velocity Vector
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/db26ddec-d219-4dc1-9096-d1e0ed307d68">
 <h4 align="center">Supplementary Video about the Jacobian Matrix
-<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+<h5 align="center">To further understand how to get the Jacobian Matrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
 </p> 
- <a href="link nung video">
-    <source media="(prefers-color-scheme: dark)" srcset=link nung screenshot nung video>
-    <img src="link nung screenshot nung video" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
+ <a href="https://drive.google.com/file/d/10rq_Nah5IroM_ag2xdpRiHNySk9VqwC9/view?usp=sharing">
+    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/4a30b7b0-b572-4db2-814e-887b9e37b2be>
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/4a30b7b0-b572-4db2-814e-887b9e37b2be" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
 </a> 
 
-<h4 align="center">Supplementary Video about the Jacobian Matrix
-<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+## <h2 align="center">III. DIFFERENTIAL EQUATION
+<h5 align="justify">The differential method in the context of the Jacobian matrix involves using the Jacobian to analyze and approximate the behavior of multivariable functions. This approach is particularly useful for linear approximations, solving systems of equations, and understanding the local behavior of transformations.
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/92c2cd74-96ff-4910-ad28-64a4c0c8587f">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/1eef8014-5d44-45ba-a65b-ab70031cf6cc">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/efbf3072-0b2e-4f9a-90a9-3ff6e75b2e29">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/1f4f25cc-cce5-49f7-8d14-67731e9cd721">
+<p align="center">
+  <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/db26ddec-d219-4dc1-9096-d1e0ed307d68">
+<h4 align="center">Supplementary Video about the Differential Equation
+<h5 align="center">To further understand how to get the Differential Equation of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
 </p> 
- <a href="link nung video">
+ <a href="https://drive.google.com/file/d/16PfOglQpvldTvxZH4LyJ3fdDTh_0XcKU/view?usp=sharing">
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
-    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Jacobian Matrix for the Articulated Manipulator" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Differential Equation for the Articulated Manipulator" width = 600 title="Discussion of Differential Equation for the Articulated Manipulator">
 </a> 
-
-<h4 align="center">Supplementary Video about the Jacobian Matrix
-<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
+<h4 align="center">Supplementary Video about the SINGULARITY
+<h5 align="center">To understand how to get the SINGULARITY of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
 </p> 
- <a href="link nung video">
+ <a href="https://drive.google.com/file/d/1KtTT0IV5t4TWzQTjF9UpJw7MEQI5g80M/view?usp=sharing">
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
-    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Jacobian Matrix for the Articulated Manipulator" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
+    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
 </a> 
+ 
+## <h2 align="center">III. PATH AND TRAJECTORY PLANNING
+<h5 align="justify">Path and trajectory planning are critical aspects in fields such as robotics, autonomous vehicles, aerospace, and animation. These processes involve determining a sequence of positions and corresponding actions that a moving entity (like a robot or a drone) should follow to reach a destination efficiently and safely.
 
-<h4 align="center">Supplementary Video about the Jacobian Matrix
-<h5 align="center">To further understand how to get the Jacobian MAtrix of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
-</p> 
- <a href="link nung video">
-    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
-    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Jacobian Matrix for the Articulated Manipulator" width = 600 title="Discussion of Jacobian Matrix for the Articulated Manipulator">
-</a> 
 
 
  
