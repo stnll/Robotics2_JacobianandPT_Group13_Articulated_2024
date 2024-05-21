@@ -163,13 +163,6 @@ n = No. of joints
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
     <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of PATH AND TRAJECTORY (GUI CALCULATOR)">
 
-</a> 
-<h4 align="center">Supplementary Video about the DIFFERENTIAL METHOD OF JACOBIAN MATRIX
-<h5 align="center">To understand DIFFERENTIAL METHOD OF JACOBIAN MATRIX of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
-</p> 
-<a href="https://drive.google.com/file/d/16PfOglQpvldTvxZH4LyJ3fdDTh_0XcKU/view?usp=sharing">
-    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
-    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of DIFFERENTIAL METHOD OF JACOBIAN MATRIX">
 
     
 
