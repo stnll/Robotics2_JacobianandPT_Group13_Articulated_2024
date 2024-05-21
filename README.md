@@ -156,22 +156,6 @@ n = No. of joints
     <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of PATH AND TRAJECTORY (PYTHON)">
 
 </a> 
-<h4 align="center">Supplementary Video about the JACOBIAN MATRIX
-<h5 align="center">To understand JACOBIAN MATRIX of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
-</p> 
-<a href="https://drive.google.com/file/d/10rq_Nah5IroM_ag2xdpRiHNySk9VqwC9/view?usp=sharing">
-    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
-    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of JACOBIAN MATRIX">
-
-</a> 
-<h4 align="center">Supplementary Video about the SINGULARITY (FINAL)
-<h5 align="center">To understand SINGULARITY (FINAL) of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
-</p> 
-<a href="https://drive.google.com/file/d/1KtTT0IV5t4TWzQTjF9UpJw7MEQI5g80M/view?usp=sharing">
-    <source media="(prefers-color-scheme: dark)" srcset=https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/3df9627f-f75b-41ab-886a-06e3b5ff1f1e>
-    <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of SINGULARITY (FINAL)">
-    
-</a> 
 <h4 align="center">Supplementary Video about the PATH AND TRAJECTORY (GUI CALCULATOR)
 <h5 align="center">To understand PATH AND TRAJECTORY (GUI CALCULATOR) of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
 </p> 
