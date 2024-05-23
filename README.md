@@ -9,13 +9,11 @@
  
   [I. Introduction](#i-introduction)
   
-  [II. Jacobian Matrix](#ii-degrees-of-freedom)
+  [II. Jacobian Matrix](#ii-jacobian-matrix)
   
-  [III. Differential Equation	](#iii-kinematic-diagram-and-d-h-frame)
+  [III. Differential Equation	](#iii-differential-equation)
   
-  [IV. Path and Trajectory Planning](iv-d-h-parametric-table)
-
-  [V. References](viii-references)
+  [IV. Path and Trajectory Planning](#iv-path-and-trajectory-planning)
 
   ## <h2 align="center">I. INTRODUCTION
 <p align="center">
@@ -136,9 +134,19 @@ n = No. of joints
     <img src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/a77dd704-065c-4754-aa49-12be80ee2054" alt="Discussion of Singularity for the Articulated Manipulator" width = 600 title="Discussion of Singularity for the Articulated Manipulator">
 </a> 
  
-## <h2 align="center">III. PATH AND TRAJECTORY PLANNING
+## <h2 align="center">IV. PATH AND TRAJECTORY PLANNING
 <h5 align="justify">Path and trajectory planning are critical aspects in fields such as robotics, autonomous vehicles, aerospace, and animation. These processes involve determining a sequence of positions and corresponding actions that a moving entity (like a robot or a drone) should follow to reach a destination efficiently and safely.
-
+</p> 
+ <h4 align="center">PICK AND PLACE
+<p align="center">
+  <img alt = "Python" width="500" src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/d11e69a4-1eb4-4034-b163-df9cc0d8b09a">
+</p> 
+ </p> 
+ </p> 
+ <h4 align="center">WELDING
+<p align="center">
+  <img alt = "Python" width="500" src="https://github.com/stnll/Robotics2_JacobianandPT_Group13_Articulated_2024/assets/157665975/2c003f71-6748-4615-8ea5-b5827e8d6f86">
+ </p> 
 </a> 
 <h4 align="center">Supplementary Video about the PATH AND TRAJECTORY (MATLAB)
 <h5 align="center">To understand PATH AND TRAJECTORY (MATLAB) of an Articulated Manipulator, here is a supplementary video explaining how to get it.  
